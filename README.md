@@ -7,4 +7,5 @@ I have done this project to classify images by using CNNmodel and Pre Trained Mo
 <h3>You can now view your Streamlit app in your browser.</h3>
 <br>
   Local URL: http://localhost:8501
+  <br>
   Network URL: http://192.168.1.12:8501
